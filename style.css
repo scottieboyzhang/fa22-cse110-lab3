@@ -15,6 +15,7 @@ h3{
     color:#00bfff;
 }
 
+
 ul{
     font-size: 22px;
     border: 3px solid pink;
@@ -74,6 +75,7 @@ form{
     font-size: 5ex;
 }
 
+/*Pseudo-class Selector*/
 button:hover{
     color:red;
 }
@@ -88,15 +90,18 @@ button:active{
     flex-direction: column;
     flex-wrap: wrap;
 }
+/*Universal Selector*/
 *{
  font-weight: lighter;
 }
 
+/*Selector List*/
 form label{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 }
 
+/*Combinators*/
 details > summary{
     color: rgb(229, 153, 60);
 }
@@ -114,7 +119,7 @@ div.page{
     background-color: rgba(121, 23, 234, 0.438);
 }
 
-
+/*Attribute Selector*/
 a[href="https://github.com/cse110-fa22-group23/cse110-fa22-group23/blob/main/admin/misc/rules.md"]
 {
   color: green;
