@@ -1,3 +1,3 @@
-# Lab 2 - Starter
+Lab3 Page
 
-https://scottieboyzhang.github.io/Lab2_Starter/
+https://scottieboyzhang.github.io/fa22-cse110-lab3/
